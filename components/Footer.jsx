@@ -16,3 +16,6 @@ const Footer = () => {
 }
 
 export default Footer
+
+
+// thhth
